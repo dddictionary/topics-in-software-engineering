@@ -1,9 +1,11 @@
 # Topics in Software Engineering
+## Abrar Habib
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+# Name
+
+
+# Description
+
 
 # Tools
 The tools that are installed with this devcontainer are:
